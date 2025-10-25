@@ -55,9 +55,9 @@
 .text4 {
   position:absolute;
   top:108px;
-  left:42%;
+  left:44%;
   transform: translate(-50%);
-   width:75%;
+   width:85%;
     font-size:1.0rem;
     color:#000;
    -webkit-user-select: none;
@@ -386,6 +386,7 @@ z-index: 1000;
 .spn6 {
   color: #000;
   font-size:16px;
+  width:97%;
   position: relative;
   left:37%;
   transform: translate(-50%, -150%);
